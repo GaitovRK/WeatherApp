@@ -1,5 +1,5 @@
 # WeatherApp
-### Simple Weather Application for iOS. Practising SwiftUI and adaptive colour scheme.
+### Simple Weather Application for iOS. The data is real-time and you can choose any city.
 
 --------
 <img width="229" alt="image" src="https://github.com/GaitovRK/WeatherApp/assets/100293747/347ec925-8c96-49f5-8f75-3a21d1aa23c6">
